@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120">
+  <defs>
+    <linearGradient id="fundo" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#FF8A3D"/>
+      <stop offset="1" stop-color="#E8491D"/>
+    </linearGradient>
+  </defs>
+  <rect width="120" height="120" rx="30" fill="url(#fundo)"/>
+  <!-- Vapor -->
+  <g fill="none" stroke="#FFFFFF" stroke-width="5" stroke-linecap="round" opacity="0.9">
+    <path d="M47 46 C41 39 53 34 47 26"/>
+    <path d="M60 46 C54 39 66 34 60 26"/>
+    <path d="M73 46 C67 39 79 34 73 26"/>
+  </g>
+  <!-- Tigela -->
+  <path d="M26 58 H94 A34 34 0 0 1 26 58 Z" fill="#FFFFFF"/>
+  <rect x="46" y="90" width="28" height="6" rx="3" fill="#FFFFFF"/>
+  <!-- Sorriso -->
+  <path d="M49 70 Q60 80 71 70" fill="none" stroke="#E8491D" stroke-width="4.5" stroke-linecap="round"/>
+</svg>
